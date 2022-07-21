@@ -23,7 +23,7 @@ function App() {
           </p>
         </div>
         {/* main wrapper  */}
-        <div className="mt-12 overflow-hidden main-wrapper mx-auto w-[364px] h-[609px] lg:w-7/8 lg:h-[700px] border border-[#E3EEF0] rounded-[355px] lg:rounded-[350px] flex items-center justify-center">
+        <div className="mt-12 overflow-hidden main-wrapper mx-auto lg:w-7/8 lg:h-[700px] border border-[#E3EEF0] rounded-[355px] lg:rounded-[350px] flex items-center justify-center">
           {/* inner wrapper-1 */}
           <div className="inner-wrapper-1 bg-white mx-auto w-[325px] h-[540px] lg:w-11/12 lg:h-[650px] border border-[#E3EEF0] rounded-[355px] lg:rounded-[300px] flex items-center justify-center">
             {/* inner wrapper-2 */}
